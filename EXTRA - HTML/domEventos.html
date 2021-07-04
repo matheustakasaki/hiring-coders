@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos DOM | HTML</title>
+</head>
+
+<body>
+    <header>
+        <main>
+
+            
+            <p id="texto1">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores assumenda itaque neque hic quaerat.
+                Quaerat quas, quae adipisci dignissimos eaque explicabo voluptate repudiandae quos ullam, saepe,
+                voluptatibus animi. Quos, error.
+            </p>
+
+            <button id="botao1" onclick="atualizacao()">Mudar texto</button>
+            <script type="text/javascript">
+
+                function atualizacao() {
+                    var texto = document.getElementById('texto1');
+                    texto.innerText = 'Texto alterado com sucesso!'
+                }
+            </script>
+        </main>
+        <footer>
+
+        </footer>
+</body>
+
+</html>
