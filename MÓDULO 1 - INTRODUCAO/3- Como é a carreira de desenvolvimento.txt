@@ -1,0 +1,37 @@
+Como é a carreira de desenvolvimento
+
+Backend: Softwares que servem como retaguarda para um sistema.
+Por exemplo: um e-commerce na montagem de pedido, logística, manipulação dos dados, etc.
+
+FRONTEND: O que está relacionado com a interação do usuário. Se preocupa com a navegação,
+a interface, a forma de apresentação, facilidade de uso, intuitividade para chegar na
+informação, etc.
+
+APLICATIVOS
+Android, IOS
+
+BANCO DE DADOS
+
+Também há o desenvolvimento de habilidades com tecnologias como: 
+GIT, frameworks de desenvolvimento ágil(entregas fracionadas porém mais rápidas), 
+
+Desenvolvimento de Soft skills
+- Boa comunicação
+- Delegação;
+- Respeito de hierarquia;
+- Trabalho em equipe;
+- Liderança;
+
+
+O que faz?
+
+
+Como desenvolver a carreira?
+
+Dev Junior: Sabe um pouco de front, back
+
+Dev Pleno: 
+
+Dev Senior: 
+
+Software só é software se é útil para alguém ter seu problema resolvido.

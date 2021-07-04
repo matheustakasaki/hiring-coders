@@ -1,0 +1,9 @@
+Objetivo do programador: 
+- Criar software para outras empresas.
+- SUa função principal é entender a necessidade do usuário e
+e transformar essa necessidade em uma aplicação/software/sistema
+- Ele é munido de ferramentas como linguagens, bancos de dados, internet(world wide web),
+ferramentas para identidade visual
+- O principal objetivo é construir um software (front-end e back-end) e 
+entregá-lo.
+- "Software só é software se ajuda alguém! "

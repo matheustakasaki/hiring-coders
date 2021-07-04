@@ -1,0 +1,27 @@
+O que é um algoritmo? 
+- Conjunto de instruções.
+
+O computador somente executará o que mandarmos ele fazer
+
+Outra pessoa que nunca fez bolo seria capaz de fazer um bolo com a receita (algoritmo)
+
+
+Como saber se algo é um algoritmo?
+- Transforma uma informação?
+- Tem uma sequencia finita de passos?
+- É ordenada?
+- Resolve um problema?
+
+Devemos ser o mais específico possível com o computador na criação de algoritmos.
+Por exemplo: QUebre um ovo. Mas como devo quebrá-lo?
+
+Entender que as instruções podem ser executadas de forma repetitiva e também podem haver alternativas de instruções.
+
+Qual o fluxo?
+Entrada -> Processamento -> Saída
+
+Entrada: Tudo o que precisamos informar para o programa. 
+
+Processamento: Sequência de passos que seguimos para resolver o problema.
+
+Saída: o resultado esperado

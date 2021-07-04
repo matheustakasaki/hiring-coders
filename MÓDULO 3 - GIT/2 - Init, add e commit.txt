@@ -1,0 +1,18 @@
+Comando Para iniciar nosso repositório e criar a pasta '.git'
+git init
+
+
+Comando para 'olhar' um arquivo
+- git add 'node-do-arquivo'
+
+Para fazer um ponto na linha do tempo usamos o 
+git commit -m "Um comentario sobre o commit"
+
+
+Para verificar o que aconteceu com o arquivo em outro momento
+usamos o 
+git log
+
+Para verificar qual o status do diretorio
+git status
+

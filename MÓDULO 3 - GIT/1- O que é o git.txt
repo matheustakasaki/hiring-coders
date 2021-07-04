@@ -1,0 +1,17 @@
+Git
+- Sistema de controle de versão distribuido: conseguimos ter o mesmo
+desenvolvimento compartilhado em varias computadores
+
+- Criado por Linus Torvalds em detrimento ao bitkeep
+- Já houveram outras soluções no passado como cvn ou cvs mas eles
+tinham problemas cronicos de codigo centralizado
+- Já o git, possui um conceito de código descentralizado.
+- O github é um projeto open-source onde podemos vincular nossos
+repositórios.
+- O bitbucket também possui vinculação com repositorios locais
+usando git, mas também podemos definir algumas camadas e integrações
+específicas para gerenciamento de projetos.
+- GitLab é mais customizável, podemos configurar
+nosso proprio servidor git, possuimos em relação aos outros e também tem um caráter
+mais empresarial
+
